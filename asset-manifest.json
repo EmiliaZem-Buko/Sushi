@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sushi/static/css/main.823b030c.chunk.css",
+    "main.js": "/Sushi/static/js/main.148bae5a.chunk.js",
+    "main.js.map": "/Sushi/static/js/main.148bae5a.chunk.js.map",
+    "runtime-main.js": "/Sushi/static/js/runtime-main.b3cccb20.js",
+    "runtime-main.js.map": "/Sushi/static/js/runtime-main.b3cccb20.js.map",
+    "static/js/2.d6ffeb19.chunk.js": "/Sushi/static/js/2.d6ffeb19.chunk.js",
+    "static/js/2.d6ffeb19.chunk.js.map": "/Sushi/static/js/2.d6ffeb19.chunk.js.map",
+    "index.html": "/Sushi/index.html",
+    "static/css/main.823b030c.chunk.css.map": "/Sushi/static/css/main.823b030c.chunk.css.map",
+    "static/js/2.d6ffeb19.chunk.js.LICENSE.txt": "/Sushi/static/js/2.d6ffeb19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3cccb20.js",
+    "static/js/2.d6ffeb19.chunk.js",
+    "static/css/main.823b030c.chunk.css",
+    "static/js/main.148bae5a.chunk.js"
+  ]
+}
