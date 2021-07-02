@@ -1,0 +1,47 @@
+{
+  "homepage": "http://EmiliaZem-Buko.github.io/Sushi",
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "ejs": "^3.1.6",
+    "express": "4.17.1",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "react": "17.0.1",
+    "react-devtools": "^4.10.1",
+    "react-dom": "17.0.1",
+    "react-media": "1.10.0",
+    "react-scripts": "^4.0.3",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "gh-pages": "^3.2.3",
+    "nodemon": "^2.0.7",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "devStart": "nodemon app.js"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
